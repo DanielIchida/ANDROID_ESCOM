@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="title">INDICE DE MASA CORPORAL</string>
+    <string name="et_altura">Ingresar Altura (en cm)</string>
+    <string name="et_peso">Ingresar Peso (en kg)</string>
+    <string name="calcular">Calcular</string>
+    <string name="clasificacion">C. de la organizacion mundial de la salud</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="indice">Indice de masa corporal: </string>
+    <string name="atendimc">Atendiendo el IMC tiene: </string>
+</resources>
